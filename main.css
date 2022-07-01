@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,400;1,500&display=swap');
+mybox {
+    margin: 20px 0;
+    background-color: aquamarine;
+    border: 2px dotted black;
+}
+ *{font-family: 'Finlandica', sans-serif;}
+.nav
+{
+    margin-left: 350px;
+}
+.col1 button{
+    border: 1px solid black;
+    font-size: 40px;
+}
+.nav a
+{
+    font-style: italic;
+}
+.col2
+{
+    padding: 30px;
+    width: 80%;
+    border:2px coral;
+}
+.col2 img
+{
+    margin-left: 100px;
+}
+.col1 p
+{
+    text-align: justify;
+}
+
+.container img
+{
+    border-radius: 50%;
+    border: 1rem;
+}
+.Social
+{
+    display: flex;
+}
+.backgound1
+{
+    background-color: #17BEBB;
+    display: flex;
+}
+.backgound1 img
+{
+    margin-left: 85px;
+}
+.backgound1 .Online-Education
+{
+    margin-left: 15px;
+}
+.backgound2
+{
+    background-color: #E28413;
+    display: flex;
+}
+.backgound2 img
+{
+    margin-right: 85px;
+}
+.backgound2 .Online-Education
+{
+    margin-left: 15px;
+}
+.backgound3
+{
+    background-color: #CCFCCB;
+    display: flex;
+}
+.backgound3 img
+{
+    margin-left: 85px;
+}
+.backgound3 .Online-Education
+{
+    margin-left: 15px;
+}
